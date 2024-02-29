@@ -1,0 +1,16 @@
+[
+  {
+    "Nome": "Batman",
+    "AnoLancamento": 1989,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalAvaliacoes": 0,
+    "DuracaoEmMinutos": 12
+  },
+  {
+    "Nome": "Superman",
+    "AnoLancamento": 1978,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalAvaliacoes": 0,
+    "DuracaoEmMinutos": 14
+  }
+]
